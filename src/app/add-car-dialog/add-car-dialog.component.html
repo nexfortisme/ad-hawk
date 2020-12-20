@@ -1,0 +1,49 @@
+<h1 mat-dialog-title>Add A Car</h1>
+<div mat-dialog-content>
+
+  <form>
+
+    <!--  Car Type  -->
+    <mat-form-field appearance="outline">
+      <mat-select [(value)]="selectedCarType" (selectionChange)="onCarTypeChange()">
+        <mat-option [value]="null">Select a Car Range</mat-option>
+        <mat-option [value]="standardRange">Standard Range</mat-option>
+        <mat-option [value]="midRange">Mid Range</mat-option>
+        <mat-option [value]="topRange">Top Range</mat-option>
+      </mat-select>
+    </mat-form-field>
+
+    <hr/>
+
+    <!--  Car Make  -->
+    <input type="text"
+           placeholder="Pick A Car Make"
+           aria-label="Number"
+           matInput
+           [formControl]="control"
+           [matAutocomplete]="auto">
+
+    <mat-autocomplete #auto="matAutocomplete">
+      <mat-option *ngFor="let option of filteredOptions | async" [value]="option">
+        {{option}}
+      </mat-option>
+    </mat-autocomplete>
+
+    <hr/>
+
+    <!--  Car License Plate  -->
+    <mat-form-field appearance="outline">
+      <mat-select>
+        <mat-option [value]="null">Select a License Plate</mat-option>
+        <mat-option *ngFor="let l of licensePlates">
+<!--          {{i}}-->
+        </mat-option>
+      </mat-select>
+    </mat-form-field>
+
+  </form>
+</div>
+<div mat-dialog-actions>
+  <button mat-raised-button (click)="onNoClick()">Close</button>
+  <button mat-raised-button cdkFocusInitial (click)="onCloseClick()">Add</button>
+</div>
