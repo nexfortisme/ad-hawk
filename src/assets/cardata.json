@@ -1,0 +1,325 @@
+[
+  {
+    "carType": "standard-range",
+    "cars": [
+      {
+        "value": 0,
+        "carMake": "Turismo R",
+        "carPicture": "",
+        "carLicensePlate": "IN4H4ZE",
+        "carLicensePlateSoundsLike": [
+          "INAHAZE"
+        ]
+      },
+      {
+        "value": 0,
+        "carMake": "Turismo R",
+        "carPicture": "",
+        "carLicensePlate": "M1LKYW4Y",
+        "carLicensePlateSoundsLike": [
+          "MILKYWAY"
+        ]
+      },
+      {
+        "value": 0,
+        "carMake": "Turismo R",
+        "carPicture": "",
+        "carLicensePlate": "TPD4WG",
+        "carLicensePlateSoundsLike": [
+          "TPDAWG", "TOPDAWG", "TOPDOG"
+        ]
+      },
+      {
+        "value": 0,
+        "carMake": "Tampa",
+        "carPicture": "",
+        "carLicensePlate": "CH4RG3D",
+        "carLicensePlateSoundsLike": [
+          "CHARGED"
+        ]
+      },
+      {
+        "value": 0,
+        "carMake": "Tampa",
+        "carPicture": "",
+        "carLicensePlate": "CRU151N",
+        "carLicensePlateSoundsLike": [
+          "CRUISIN", "CRUISING"
+        ]
+      },
+      {
+        "value": 0,
+        "carMake": "Tampa",
+        "carPicture": "",
+        "carLicensePlate": "MU5CL3",
+        "carLicensePlateSoundsLike": [
+          "MUSCLE"
+        ]
+      },
+      {
+        "value": 0,
+        "carMake": "Sabre Turbo",
+        "carPicture": "",
+        "carLicensePlate": "GUNZ0UT",
+        "carLicensePlateSoundsLike": [
+          "GUNZOUT", "GUNSOUT"
+        ]
+      },
+      {
+        "value": 0,
+        "carMake": "Sabre Turbo",
+        "carPicture": "",
+        "carLicensePlate": "0R1G1N4L",
+        "carLicensePlateSoundsLike": [
+          "ORIGINAL"
+        ]
+      },
+      {
+        "value": 0,
+        "carMake": "Sabre Turbo",
+        "carPicture": "",
+        "carLicensePlate": "BOUNC3",
+        "carLicensePlateSoundsLike": [
+          "BOUNCE"
+        ]
+      },
+      {
+        "value": 0,
+        "carMake": "Nightshade",
+        "carPicture": "",
+        "carLicensePlate": "DEA4DLY",
+        "carLicensePlateSoundsLike": [
+          "DEADLY"
+        ]
+      },
+      {
+        "value": 0,
+        "carMake": "Nightshade",
+        "carPicture": "",
+        "carLicensePlate": "TH370S",
+        "carLicensePlateSoundsLike": [
+          "THETOS"
+        ]
+      },
+      {
+        "value": 0,
+        "carMake": "Nightshade",
+        "carPicture": "",
+        "carLicensePlate": "E4TM3",
+        "carLicensePlateSoundsLike": [
+          "EATME"
+        ]
+      },
+      {
+        "value": 0,
+        "carMake": "Massacro",
+        "carPicture": "",
+        "carLicensePlate": "TR0P1CAL",
+        "carLicensePlateSoundsLike": [
+          "TROPICAL"
+        ]
+      },
+      {
+        "value": 0,
+        "carMake": "Massacro",
+        "carPicture": "",
+        "carLicensePlate": "B4N4N4",
+        "carLicensePlateSoundsLike": [
+          "BANANA"
+        ]
+      },
+      {
+        "value": 0,
+        "carMake": "Massacro",
+        "carPicture": "",
+        "carLicensePlate": "B055",
+        "carLicensePlateSoundsLike": [
+          "BOSS"
+        ]
+      },
+      {
+        "value": 0,
+        "carMake": "Jester",
+        "carPicture": "",
+        "carLicensePlate": "H0TP1NK",
+        "carLicensePlateSoundsLike": [
+          "HOTPINK"
+        ]
+      },
+      {
+        "value": 0,
+        "carMake": "Jester",
+        "carPicture": "",
+        "carLicensePlate": "T0PCL0WN",
+        "carLicensePlateSoundsLike": [
+          "TOPCLOWN"
+        ]
+      },
+      {
+        "value": 0,
+        "carMake": "Jester",
+        "carPicture": "",
+        "carLicensePlate": "NOF00L",
+        "carLicensePlateSoundsLike": [
+          "NOFOOL"
+        ]
+      },
+      {
+        "value": 0,
+        "carMake": "Feltzer",
+        "carPicture": "",
+        "carLicensePlate": "P0W3RFUL",
+        "carLicensePlateSoundsLike": [
+          "POWERFUL"
+        ]
+      },
+      {
+        "value": 0,
+        "carMake": "Feltzer",
+        "carPicture": "",
+        "carLicensePlate": "K3YL1M3",
+        "carLicensePlateSoundsLike": [
+          "KEYLIME"
+        ]
+      },
+      {
+        "value": 0,
+        "carMake": "Feltzer",
+        "carPicture": "",
+        "carLicensePlate": "R4C3R",
+        "carLicensePlateSoundsLike": [
+          "RACER"
+        ]
+      },
+      {
+        "value": 0,
+        "carMake": "Bestia GTS",
+        "carPicture": "",
+        "carLicensePlate": "BE4STY",
+        "carLicensePlateSoundsLike": [
+          "BEASTY"
+        ]
+      },
+      {
+        "value": 0,
+        "carMake": "Bestia GTS",
+        "carPicture": "",
+        "carLicensePlate": "5T35LTH",
+        "carLicensePlateSoundsLike": [
+          "STEALTH", "STESTH"
+        ]
+      },
+      {
+        "value": 0,
+        "carMake": "Bestia GTS",
+        "carPicture": "",
+        "carLicensePlate": "5M00TH",
+        "carLicensePlateSoundsLike": [
+          "SMOOTH"
+        ]
+      },
+      {
+        "value": 0,
+        "carMake": "Alpha",
+        "carPicture": "",
+        "carLicensePlate": "V1S10NRY",
+        "carLicensePlateSoundsLike": [
+          "VISIONARY"
+        ]
+      },
+      {
+        "value": 0,
+        "carMake": "Alpha",
+        "carPicture": "",
+        "carLicensePlate": "L0NG80Y",
+        "carLicensePlateSoundsLike": [
+          "LONGBOY", "LONGBOI"
+        ]
+      },
+      {
+        "value": 0,
+        "carMake": "Alpha",
+        "carPicture": "",
+        "carLicensePlate": "R31GN",
+        "carLicensePlateSoundsLike": [
+          "REIGN"
+        ]
+      },
+      {
+        "value": 0,
+        "carMake": "Banshee",
+        "carPicture": "",
+        "carLicensePlate": "DR1FT3R",
+        "carLicensePlateSoundsLike": [
+          "DRIFTER"
+        ]
+      },
+      {
+        "value": 0,
+        "carMake": "Banshee",
+        "carPicture": "",
+        "carLicensePlate": "D0M1N0",
+        "carLicensePlateSoundsLike": [
+          "DOMINO"
+        ]
+      },
+      {
+        "value": 0,
+        "carMake": "Banshee",
+        "carPicture": "",
+        "carLicensePlate": "H0WL3R",
+        "carLicensePlateSoundsLike": [
+          "HOWLER"
+        ]
+      }
+    ],
+    "carTypeStandardValue": {
+      "value": 15000,
+      "costs": 0
+    },
+    "carTypeMidValue": {
+      "value": 26250,
+      "costs": 3750
+    },
+    "carTypeTopValue": {
+      "value": 37500,
+      "costs": 7500
+    }
+  },
+  {
+    "carType": "mid-range",
+    "cars": [
+
+    ],
+    "carTypeStandardValue": {
+      "value": 25000,
+      "costs": 0
+    },
+    "carTypeMidValue": {
+      "value": 43750,
+      "costs": 6250
+    },
+    "carTypeTopValue": {
+      "value": 62500,
+      "costs": 12500
+    }
+  },
+  {
+    "carType": "top-range",
+    "cars": [
+
+    ],
+    "carTypeStandardValue": {
+      "value": 40000,
+      "costs": 0
+    },
+    "carTypeMidValue": {
+      "value": 70000,
+      "costs": 10000
+    },
+    "carTypeTopValue": {
+      "value": 100000,
+      "costs": 20000
+    }
+  }
+]

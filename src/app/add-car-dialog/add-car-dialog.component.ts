@@ -65,7 +65,7 @@ export class AddCarDialogComponent implements OnInit {
   filteredOptions: Observable<string[]>;
 
   constructor(@Inject(MAT_DIALOG_DATA) public data: any,
-              public dialogRef: MatDialogRef<AddCarDialogComponent>,) {
+              public dialogRef: MatDialogRef<AddCarDialogComponent>) {
   }
 
   ngOnInit() {

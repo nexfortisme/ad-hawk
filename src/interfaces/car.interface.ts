@@ -5,5 +5,5 @@ export interface Car {
   carMake: string;
   carPicture: string;
   carLicensePlate: string;
+  carLicensePlateSoundsLike: string[];
 }
-

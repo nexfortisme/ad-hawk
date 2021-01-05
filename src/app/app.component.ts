@@ -17,7 +17,7 @@ export class AppComponent implements OnInit {
   selectedFile;
   loadedFile: any;
 
-  constructor(public dialog: MatDialog){
+  constructor(public dialog: MatDialog) {
 
   }
 
@@ -37,8 +37,12 @@ export class AppComponent implements OnInit {
   }
 
 
+  parseInput(e) {
 
-  importGarage(e){
+  }
+
+
+  importGarage(e) {
     console.log('event', e);
     this.selectedFile = e.target.files[0];
     const fileReader = new FileReader();
@@ -52,7 +56,7 @@ export class AppComponent implements OnInit {
     };
   }
 
-  exportGarage(){
+  exportGarage() {
     const theData = {
       foo: 'bar'
     };
